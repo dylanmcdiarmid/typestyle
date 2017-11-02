@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/typestyle/typestyle#readme",
   "dependencies": {
-    "free-style": "2.5.0"
+    "free-style": "git+https://github.com/dylanmcdiarmid/free-style#sort-fork-v1"
   },
   "devDependencies": {
     "@types/mocha": "^2.2.39",
